@@ -1,0 +1,15 @@
+@import url("./fonts.css");
+
+.game-bg{
+  background: #0e0861;
+  width: 100vw;
+  height: 100vh;
+  font-family: 'KaushikFont';
+  color: white;
+  font-size: 59px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+}

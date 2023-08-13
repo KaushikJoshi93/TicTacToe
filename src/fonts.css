@@ -1,0 +1,5 @@
+/* import custom fonts */
+@font-face {
+    font-family: 'KaushikFont';
+    src: url('./fonts/KaushikItalicGameFont.otf');
+}

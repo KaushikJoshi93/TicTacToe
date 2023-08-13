@@ -1,0 +1,11 @@
+.player::before{
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: calc(100% + 60px);
+    background: green;
+    top: -33px;
+    left: 50%;
+    transform: rotate(-44deg);
+    border-radius: 12px;
+}
